@@ -1,7 +1,5 @@
 Author: Aishwarya Venketeswaran
-Spring 2015 CS 154
 Project 
-Submitted Prof.Adel Atta
 
 Files that have been submitted:
 spec.l - Contains the comiler program I wrote.
